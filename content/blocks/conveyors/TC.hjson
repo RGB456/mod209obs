@@ -1,0 +1,11 @@
+type: Conveyor
+name: Улучшеный конвеер
+description: ""
+health:45
+requirements:[
+copper/1
+lead/6
+]
+category: distribution
+speed: 0.08
+research: titanium-conveyor

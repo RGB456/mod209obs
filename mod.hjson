@@ -1,0 +1,11 @@
+displayName:"Obsidian-Mod"
+name:"O-M"
+description:"Мод создан в программе MМС.
+ мод добавляет мало чего. но скоро будет много . 
+будут обновления
+Дэбагинг: theskyfather или Макс Богров.
+"
+author:"[red]R[green]G[blue]B "
+version:"0.3.micro release"
+dependencies:[]
+minGameVersion:115.0

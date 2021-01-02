@@ -1,0 +1,9 @@
+name:"Вода из гейзера"
+description:"Для подогрева"
+temperature:36.6
+flammability: 0.2
+heatCapacity:0.6
+viscosity:0.9
+explosiveness:0.1
+effect:"boss"
+color:"#596ab8"
